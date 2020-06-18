@@ -10,5 +10,6 @@ Naturally, I was very excited to analyse his perfomance and add a machine learni
 - determine Daniel's best season in F1 and whether his performance improved with time;
 - explore what his most successful circuits are (where he received the greatest amount of points);
 - explore his performance at qualifying and see where he qualified the highest;
+- investigate the correlation between Daniel Ricciardo's qualifying results and points received in a Grand Prix race;
 - develop two machine learning models that predict his performance in 2019 based on the previous seasons.
 
